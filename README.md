@@ -3,7 +3,7 @@
 
 To authenticate applications using OpenID Connect register your application with the Identity Provider(wso2).
 
-## How OpenID works?
+## Client Credentials Grant Flow with Minio
 
 ![image](https://user-images.githubusercontent.com/22103395/41444342-662c7a42-6ff7-11e8-93aa-75bce207e6cd.png)
 
